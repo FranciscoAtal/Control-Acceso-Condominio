@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-style: italic;
+}
+
+td,
+th {
+    vertical-align: middle !important;
+}
+
+td div {
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+}
+input {
+    text-align: center;
+}
